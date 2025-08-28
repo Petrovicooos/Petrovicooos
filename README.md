@@ -5,8 +5,6 @@ Im still studying, but i know Python, Jupyter Notebook and im learning some Rust
 If you want you can reach me trough mail: vulesmule@gmail.com
 Or reach to me by discord:vulesmule
 
-https://camo.githubusercontent.com/5367b223c625d026de1c1629bceddbaad26459780d11d43c454892f9e0d6b561/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d506574726f7669636f6f6f732673686f775f69636f6e733d74727565267468656d653d64726163756c6
-<!--
 
 
 - 🔭 I’m currently working on ...
